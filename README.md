@@ -1,5 +1,6 @@
 # Covid-19 Analysis, Visualization and Forecasting
 
+![7](https://user-images.githubusercontent.com/69224996/97096485-fbd98300-1621-11eb-8230-3f30c6d2f320.jpg)
 
 From World Health Organization - On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, we do not know how it affects people. So daily level information on the affected people can give some interesting insights when it is made available to the broader data science community. Johns Hopkins University has made an excellent dashboard using the affected cases data, and our data is extracted from this dashboard.
 
