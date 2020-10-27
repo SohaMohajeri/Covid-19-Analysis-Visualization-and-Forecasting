@@ -1,7 +1,7 @@
 <div align="center">
   
 # Covid-19 Analysis, Visualization and Forecasting
-</div>\
+</div>
 
 
 <div align="center">
