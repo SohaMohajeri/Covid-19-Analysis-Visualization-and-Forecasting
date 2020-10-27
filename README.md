@@ -8,7 +8,7 @@ In this notebook we will use Covid-19_Datase that is the same as COVID19_line_li
 
 There are three parts to our report, as follows:
 
-Data Cleaning and Feature Engineering
-Exploratory Data Analysis
-Prediction of Death or Recovery of Patients
+- Data Cleaning and Feature Engineering
+- Exploratory Data Analysis
+- Prediction of Death or Recovery of Patients
 Our first objective is to find out the factors that are more important in the death and recovery of patients. Our second purpose is to implement several machine learning algorithms such as Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Support Vector Classifier and XGBoost Classifier to predict the death and recovery of patients and compare the result to discover which algorithm works better for this specific dataset.
